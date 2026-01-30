@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 📊 Social Dashboard
+  # 📊 Socio-Dash
   ### Analytics & Scheduling Platform
 
   <p>
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   </p>
 
-  <img src="https://github.com/user-attachments/assets/98720cef-0e34-4bf1-b9fa-03b32761d04e" alt="Dashboard Preview" width="100%" />
+  <img src="https://github.com/user-attachments/assets/2d491afe-86c4-43e1-a2e7-482775df7ee6" alt="Dashboard Preview" width="100%" />
 
 </div>
 
@@ -52,18 +52,18 @@
   <tr>
     <td width="50%">
       <h3 align="center">Analytics Dashboard</h3>
-      <img src="https://github.com/user-attachments/assets/bc21d077-e05b-4664-9209-df298eb0e960"  alt="Dashboard" />
+      <img src="https://github.com/user-attachments/assets/2d491afe-86c4-43e1-a2e7-482775df7ee6"  alt="Dashboard" />
     </td>
     <td width="50%">
       <h3 align="center">Content Scheduler</h3>
-      <img src="https://github.com/user-attachments/assets/53da727e-f1b9-4b5e-b7bf-ad3b3f3df153" alt="Scheduler" />
+      <img src="https://github.com/user-attachments/assets/da6bff0e-90a6-4b98-9418-722d898110d5" alt="Scheduler" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
       <h3 align="center">Secure Login</h3>
       <div align="center">
-        <img src="https://github.com/user-attachments/assets/899764a9-61a1-499b-8728-627d96296fca" alt="Login Page" width="50%" />
+        <img src="https://github.com/user-attachments/assets/1b27620e-e88d-4653-b412-665629ae82b3" alt="Login Page" width="50%" />
       </div>
     </td>
   </tr>
